@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HCI and experimental psychology
 
 You can use the [editor on GitHub](https://github.com/schemafault/schemafault/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
